@@ -1,4 +1,4 @@
-Hello, I am Pedro, a calm and easygoing person with a passion for programming and computers. I love pushing myself through individual challenges to prove what I can achieve, but when working in a team, I prioritize inclusive collaboration. I believe the best results come when every voice is heard and everyone has a saying in the solution.
+Hello, I am Pedro, a calm and easygoing person with a passion for programming and computers. Welcome to my profile! 👋
 
 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-moromizato)
