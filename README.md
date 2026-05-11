@@ -1,4 +1,8 @@
-Hello, I am Pedro, a calm and easygoing person with a passion for programming and computers. Welcome to my profile! 👋
+## Welcome to my profile! 👋
+
+Hello, I am Pedro, a calm and easygoing person with a passion for programming and computers.
+
+- Currently studying at Porto 42 📚
 
 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-moromizato)
