@@ -20,10 +20,10 @@ Hello, I am Pedro, a calm and easygoing person with a passion for programming an
 
 | Project | Status | Technology |
 | :--- | :---: | :--- |
-| [Push_swap](https://github.com/larocqueg/42_Push_swap) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat&logo=check) | ![C](https://img.shields.io/badge/c-00599C.svg?style=flat&logo=c&logoColor=white) |
-| [Get_next_line](https://github.com/larocqueg/42_get_next_line.git) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat&logo=check) | ![C](https://img.shields.io/badge/c-00599C.svg?style=flat&logo=c&logoColor=white) |
-| [Ft_printf](https://github.com/larocqueg/42_ft_printf.git) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat&logo=check) | ![C](https://img.shields.io/badge/c-00599C.svg?style=flat&logo=c&logoColor=white) |
-| [Libft](https://github.com/larocqueg/42_Libft) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat&logo=check) | ![C](https://img.shields.io/badge/c-00599C.svg?style=flat&logo=c&logoColor=white) |
+| [Push_swap](https://github.com/moromizato-pedro/push_swap) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat&logo=check) | ![C](https://img.shields.io/badge/c-00599C.svg?style=flat&logo=c&logoColor=white) |
+| [Get_next_line](https://github.com/moromizato-pedro/get_next_line) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat&logo=check) | ![C](https://img.shields.io/badge/c-00599C.svg?style=flat&logo=c&logoColor=white) |
+| [Ft_printf](https://github.com/moromizato-pedro/libprintf) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat&logo=check) | ![C](https://img.shields.io/badge/c-00599C.svg?style=flat&logo=c&logoColor=white) |
+| [Libft](https://github.com/moromizato-pedro/milestone-0) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat&logo=check) | ![C](https://img.shields.io/badge/c-00599C.svg?style=flat&logo=c&logoColor=white) |
 
 
 ## Exams
