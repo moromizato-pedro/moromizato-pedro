@@ -26,23 +26,22 @@ int main(void) {
 
 ## 🎓 42 School Common Core Journey
 
-Here is a breakdown of the core curriculum projects I have built so far, focused on memory management, algorithmic efficiency, and low-level system design:
+Here is a breakdown of the core curriculum projects I have built so far:
 
-| 🏆 Project | 📈 Rank | 📝 Description | 🧠 Core Skill | Status |
+| 🏆 Project | 📈&nbsp;Rank | 📝 Description | 🧠 Core Skill | 💻&nbsp;Language |
 | :--- | :---: | :--- | :--- | :---: |
-| **[Libft](#)** | **Rank 00** | Custom C library rebuilding standard `libc` functions | 🧱 Memory & Strings | ✅ |
-| **[Get Next Line](#)** | **Rank 01** | Reads and returns a single line from a file descriptor | 📂 File IO & Statics | ✅ |
-| **[ft_printf](#)** | **Rank 01** | Custom implementation of the classic C `printf` | 🖨️ Variadic Args | ✅ |
-| **[Push Swap](#)** | **Rank 01** | Optimized data sorting algorithm using two stacks | 🔄 Algorithms & Big-O | ✅ |
-| **[A-maze-ing](#)** | **Rank 02** | Custom maze-solving and routing implementation | 🧭 Pathfinding (BFS/DFS) | ✅ |
+| **[Libft](#)** | **Rank 00** | Custom C library rebuilding standard `libc` functions | 🧱 Memory & Strings | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
+| **[Get Next Line](#)** | **Rank 01** | Reads and returns a single line from a file descriptor | 📂 File IO & Statics | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
+| **[ft_printf](#)** | **Rank 01** | Custom implementation of the classic C `printf` | 🖨️ Variadic Args | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
+| **[Push Swap](#)** | **Rank 02** | Optimized data sorting algorithm using two stacks | 🔄 Algorithms & Big-O | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
+| **[A-maze-ing](#)** | **Rank 02** | Custom maze-solving and routing implementation | 🧭 Pathfinding (BFS/DFS) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[Python Modules](#)** | **Rank 02** | Progressive introduction to Python, data analysis, and manipulation | 🐍 OOP & Data Science | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ### 🏅 Exam Progression
 
-*   **[x] Rank 00**
-    *   Foundational C programming, nested loops, basic pointer arithmetic, and manual memory mechanics under strict time constraints.
-*   **[x] Rank 01**
-    *   Intermediate logic, string manipulation algorithms, recursion, bitwise operations, and memory allocation management.
-*   **[x] Rank 02**
-    *   Advanced algorithms, custom data structures (like linked lists), parsing complex inputs, and optimizing code for strict time/space complexity.
-*   **[] Rank 03** *(In Progress)*
-    *   Multi-threading, concurrency (preventing race conditions/deadlocks), and systems-level programming.
+| 📈&nbsp;Rank | 🚦 Status | 📝 Tested Skills & Focus |
+| :--- | :---: | :--- |
+| **Rank 00** | ✅ Passed | Foundational C programming, nested loops, basic pointer arithmetic, and manual memory mechanics. |
+| **Rank 01** | ✅ Passed | Intermediate logic, string manipulation algorithms, recursion, bitwise operations, and memory allocation. |
+| **Rank 02** | ✅ Passed | Introduction to Python, advanced algorithms, custom data structures (like linked lists), parsing complex inputs, and optimizing code for strict time/space complexity. |
+| **Rank 03** | ⏳ In Progress | Multi-threading, concurrency (preventing race conditions/deadlocks), and systems-level programming. |
